@@ -103,3 +103,7 @@ article table th {
    text-align: center;
    border-bottom: 3px solid black;
 }
+article table td {
+   text-align: center;
+   border-bottom: 3px solid black;
+}
